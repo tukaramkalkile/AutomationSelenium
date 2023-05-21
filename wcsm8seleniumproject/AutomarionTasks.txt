@@ -1,0 +1,6 @@
+Try to Identify atleast 5 Xpath in FireFox Browser.
+1.//input[type='search'] for Search textbox.
+2.//label[text()='Shortcuts']
+3.//label[text()='Sponsored shortcuts']
+4.//label[text()='Recommended by Pocket']
+5.//label[text()='Recent activity']

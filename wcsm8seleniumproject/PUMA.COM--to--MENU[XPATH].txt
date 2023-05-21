@@ -1,0 +1,4 @@
+//span[text()='PUMA.com']
+/ancestor::a[contains(@class,'tw-hqslau tw-xbcb1y')]
+/following-sibling::button[contains(@class,'flex items-center')]
+/descendant::span[@class='text-xs uppercase text-white']
