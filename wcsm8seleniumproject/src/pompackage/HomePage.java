@@ -14,7 +14,7 @@ public class HomePage {
 	@FindBy(xpath = "//A[@class='content reports']/IMG[@class='sizer']") private WebElement reportsModule;
 	@FindBy(xpath = "//A[@class='content calendar']/IMG[@class='sizer']") private WebElement workscheduleModule;
 	@FindBy(xpath = "//A[@class='content administration']/IMG[@class='sizer']") private WebElement settingsModule;
-	// operational
+	// initialization
 	
 	public HomePage(WebDriver driver)
 	{
